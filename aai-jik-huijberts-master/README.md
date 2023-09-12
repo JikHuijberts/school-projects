@@ -98,7 +98,7 @@
 | Slicing                                                      | T                  |[Python Basiskennis](./notebook/knowledge/python_basiskennis.ipynb)| T | 1          |
 | Supervised vs unsupervised learning                          | K                  |[Supervised vs Unsupervised](./notebook/knowledge/supervised_unsupervised.md)| K | 1          |
 | Clustering                                                   | K                  |[Clustering](./notebook/knowledge/clustering/Clustering.md)| K | 1          |
-| Stochastic gradient descent                                  | T                  |[stock market](./notebook/Deep Learning/time-series-forecasting/time-series-recurrent-network.ipynb) en [cifar-10](notebook/Deep Learning/cifar10/expiriment1.ipynb)|T | 2          |
+| Stochastic gradient descent                                  | T                  |[stock market](./notebook/Deep_Learning/time-series-forecasting/time-series-recurrent-network.ipynb) en [cifar-10](<./notebook/Deep Learning/cifar10/expiriment1.ipynb>)|T | 2          |
 | Backpropagation                                              | T                  |[n_n](./notebook/python/nn_helper.py)| T | 2 |
 | Geschikte performance measures kiezen                        | A                  |[opdracht 2](./notebook/ml/opdracht2/opdracht2.ipynb)| A | 1          |
 | Relatie wiskunde en AI                                       | A                  |[ml wis](./notebook/knowledge/wiskunde_ai/wiskunde_ai.md)| A | 3          |
@@ -113,7 +113,7 @@
 | **Data voorbereiden en feature selection** | | | | |
 | Z-scores                                                     | T                  |[opdracht 3](./notebook/ml/opdracht3/opdracht3.ipynb) |T| 1,2        |
 | Standaardafwijking                                           | T                  |[op 2 - correlation](./notebook/ml/opdracht2/opdracht2.ipynb) en [op 3 - z-scores](/notebook/ml/opdracht3/opdracht3.ipynb)|T| 1          |
-| Normaliseren                                                 | T                  |[cifar-10](./notebook/Deep Learning/cifar10/expiriment1.ipynb)| T | 1,2        |
+| Normaliseren                                                 | T                  | [cifar-10](<./notebook/Deep Learning/cifar10/expiriment1.ipynb>) | T | 1,2        |
 | T-toets                                                      | A                  |[opdracht 7](./notebook/ml/opdracht7/opdracht7.ipynb)|A| 1          |
 | ANOVA                                                        | T                  |[opdracht 7](./notebook/ml/opdracht7/opdracht7.ipynb)|T| 1,2        |
 | Correlatiematrix                                             | A                  |[opdracht 2](./notebook/ml/opdracht2/opdracht2.ipynb)|A| 1          |
@@ -130,23 +130,23 @@
 | Random forest                                                | A                  |[Opdracht 2](./notebook/ml/opdracht2/opdracht2.ipynb)| A| 1          |
 | | | | | |
 | Dense neural network                                         | A                  |[Opdracht 6](./notebook/ml/opdracht6/opdracht6.ipynb)| A | 2          |
-| Convolutional neural network                                 | A                  |[cifar-10](notebook/Deep Learning/cifar10/expiriment1.ipynb)|A| 2          |
-| Recurrent neural network                                     | T                  |[google stock numbers](./notebook/Deep Learning/time-series-forecasting/time-series-recurrent-network.ipynb) en [sentiment 140](./notebook/Deep Learning/expiriment2/test2.ipynb)|A | 2          |
+| Convolutional neural network                                 | A                  |[cifar-10](<./notebook/Deep Learning/cifar10/expiriment1.ipynb>)|A| 2          |
+| Recurrent neural network                                     | T                  |[google stock numbers](<./notebook/Deep Learning/time-series-forecasting/time-series-recurrent-network.ipynb>) en [sentiment 140](<./notebook/Deep Learning/expiriment2/test2.ipynb>)|A | 2          |
 | Residual neural network                                      | K                  |[Residual neural network](./notebook/knowledge/ResNet/Residual_neural_network.md)|K| 2          |
-| Autoencoders                                                 | T                  |[cifar-10](notebook/Deep Learning/cifar10/expiriment1.ipynb)|T| 2          |
+| Autoencoders                                                 | T                  |[cifar-10](<./notebook/Deep Learning/cifar10/expiriment1.ipynb>)|T| 2          |
 | Adversarial learning                                         | T                  |[Adversarial](./notebook/knowledge/adversarial_learning/adversarial_learning.ipynb)|T| 3          |
 | Reinforcement learning                                       | T                  |[Reinforcement](./notebook/knowledge/reinforcement_learning/re_learn.ipynb)|T| 2          |
 | | | | | |
 | **Model verbeteren** | | | | |
 | Cross validation                                             | T                  |[Opdracht 1](./notebook/ml/opdracht1/opdracht1.ipynb)|T| 1          |
 | Ensemble methods                                             | T                  |[Opdracht 5](./notebook/ml/opdracht5/opdracht5.ipynb)|T| 2          |
-| Transfer learning                                            | T                  |[cifar-10](notebook/Deep Learning/cifar10/expiriment1.ipynb)|T| 2          |
-| XAI extensies                                                | A                  |[Opdracht 1](./notebook/ml/opdracht1/opdracht1.ipynb) en [autoencoder](./notebook/Deep Learning/autoencoder/cifar-auto-encoder.ipynb)|T| 3          |
-| Taalmodellen verfijnen en integreren                         | T                  |[sentiment 140](./notebook/Deep Learning/expiriment2/test2.ipynb)|T| 3          |
+| Transfer learning                                            | T                  |[cifar-10](<./notebook/Deep Learning/cifar10/expiriment1.ipynb>)|T| 2          |
+| XAI extensies                                                | A                  |[Opdracht 1](./notebook/ml/opdracht1/opdracht1.ipynb) en [autoencoder](<./notebook/Deep Learning/autoencoder/cifar-auto-encoder.ipynb>)|T| 3          |
+| Taalmodellen verfijnen en integreren                         | T                  |[sentiment 140](<./notebook/Deep Learning/expiriment2/test2.ipynb>)|T| 3          |
 | | | | | |
 | **Evalueren** | | | | |
-| Overfitting en underfitting                                  | A                  |[sentiment 140](./notebook/Deep Learning/expiriment2/test2.ipynb)|                                            | 1          |
-| Learning curve                                               | A                  |[cifar-10](notebook/Deep Learning/cifar10/expiriment1.ipynb) en | | 1          |
+| Overfitting en underfitting                                  | A                  |[sentiment 140](<./notebook/Deep Learning/expiriment2/test2.ipynb>)|                                            | 1          |
+| Learning curve                                               | A                  |[cifar-10](<./notebook/Deep Learning/cifar10/expiriment1.ipynb>) en | | 1          |
 | Confusion matrix                                             | A                  |[Opdracht 6](./notebook/ml/opdracht6/opdracht6.ipynb)| A | 1          |
 | ROC curve                                                    | A                  |[Opdracht 5](./notebook/ml/opdracht5/opdracht5.ipynb)| A| 1          |
 | Testen op bias en betrouwbaarheid                            | T                  |[fairness](./notebook/knowledge/fairness/fairness.ipynb)|T| 3          |
